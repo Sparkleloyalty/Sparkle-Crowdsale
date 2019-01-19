@@ -37,7 +37,7 @@
 9. Enter the amount of SPRKL you wish to purchase click "Buy Tokens"
 10. Confirm you entered the correct gas amount 
 11. Send transaction
-12. Click 'Claim Tokens"
+12. Click "Claim Tokens"
 
 
 
