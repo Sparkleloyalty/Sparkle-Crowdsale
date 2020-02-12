@@ -7,7 +7,7 @@
 
 
 ### Sparkle Dashboard 
-[Sparkle Dashboard](https://tokensale.sparklemobile.io/login/index.html) Sparkle's crowdsale was built for full functionally for all users across multiple platforms.   
+Sparkle's crowdsale and dashboard were built for full functionally for all users across multiple platforms.   
 
 ### Compatable purchase platforms 
 
